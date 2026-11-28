@@ -1,0 +1,6 @@
+# 工作区记忆文件（本机内部用，不进仓库）
+.workbuddy-memory/
+
+# 系统文件
+Thumbs.db
+.DS_Store
